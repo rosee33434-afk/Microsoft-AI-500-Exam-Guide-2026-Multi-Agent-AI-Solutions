@@ -3,6 +3,9 @@
 
 Preparing for the **Microsoft AI-500: Designing and Implementing Multi-Agent AI Solutions (Beta)** certification? This repository covers essential exam topics, study resources, and practice questions to help you prepare.
 
+<img width="516" height="387" alt="images (24)" src="https://github.com/user-attachments/assets/81ea491e-47e0-4274-b047-9c6de83ab610" />
+
+
 ## Key Topics
 - Multi-agent AI architecture and orchestration
 - Microsoft Foundry and Azure AI development
